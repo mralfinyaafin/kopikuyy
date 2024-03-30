@@ -1,0 +1,92 @@
+{
+    "arabica": [
+      {
+        "foto": "images/produk/product_capuchino.jpg",
+        "nama": "Cappuccino Arabica",
+        "size": "500 Gram",
+        "harga": "200.000",
+        "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+      },
+      {
+        "foto": "images/produk/product_espresso.jpg",
+        "nama": "Pahit Arabica",
+        "size": "100 Gram",
+        "harga": "100.000",
+        "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+      },
+      {
+        "foto": "images/produk/product_latte.jpg",
+        "nama": "Latte Arabica",
+        "size": "150 Gram",
+        "harga": "150.000",
+        "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+      },
+      {
+        "foto": "images/produk/flores.jpg",
+        "nama": "Flores Arabica",
+        "size": "120 Gram",
+        "harga": "100.000",
+        "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+      }
+    ],
+    "robusta": [
+      {
+        "foto": "images/produk/product_kopi_susu.jpg",
+        "nama": "Kopsus Robusta",
+        "size": "100 Gram",
+        "harga": "80.000",
+        "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+      },
+      {
+        "foto": "images/produk/product_latte.jpg",
+        "nama": "Latte Robusta",
+        "size": "150 Gram",
+        "harga": "150.000",
+        "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+      },
+      {
+        "foto": "images/produk/product_espresso.jpg",
+        "nama": "Espresso Robusta",
+        "size": "150 Gram",
+        "harga": "120.000",
+        "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+      },
+      {
+        "foto": "images/produk/lampung.jpg",
+        "nama": "Lampung Robusta",
+        "size": "80 Gram",
+        "harga": "125.000",
+        "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+      }
+    ],
+    "meal": [
+      {
+        "foto": "images/produk/bolen.jpg",
+        "nama": "Bolen Pisang",
+        "size": "4 pcs",
+        "harga": "40.000",
+        "link": "https://www.google.com/search?q=ice+cream+cone&tbm=shop"
+      },
+      {
+        "foto": "images/produk/cromboloni.jpg",
+        "nama": "Cromboloni",
+        "size": "2 pcs",
+        "harga": "70.000",
+        "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+      },
+      {
+        "foto": "images/produk/mie.jpg",
+        "nama": "Mie Bangladesh",
+        "size": "Bowl",
+        "harga": "25.000",
+        "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+      },
+      {
+        "foto": "images/produk/brownis.jpg",
+        "nama": "Brownies",
+        "size": "4 pcs",
+        "harga": "20.000",
+        "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+      }
+    ]
+  }
